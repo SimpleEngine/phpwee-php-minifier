@@ -16,7 +16,7 @@
 	"repositories": [ 
 	        {
 	            "type": "vcs",
-	            "url": "https://github.com/searchturbine/phpwee-php-minifier"
+	            "url": "https://github.com/SimpleEngine/phpwee-php-minifier.git"
 	        }
 	    ],
 	    "autoload": {
